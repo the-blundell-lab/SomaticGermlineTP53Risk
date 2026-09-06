@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+.env/
+*.conda
+
+# OS
+.DS_Store
+
+# Data (keep empty in git)
+data/
+tmp/
+results/*
